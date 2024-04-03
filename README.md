@@ -1,6 +1,6 @@
 # image-retrieval
 
-This repository presents an image retrieval pipeline consists of vector database storing image features extracted using a pre-trained ResNet/ViT model. Image retrieval pipeline consists of (1) a vector database building script that extracts image features of all images in the collection using a pre-trained ResNet/ViT model and stores them in a vector database by cosine similarity, (2) a search query script that extracts the features for a randomly selected image and returns the most similar images from the vector database.
+This repository presents an image retrieval pipeline that consists of a vector database storing image features extracted using a pre-trained ResNet/ViT model. Image retrieval pipeline consists of (1) a vector database building script that extracts image features of all images in the collection using a pre-trained ResNet/ViT model and stores them in a vector database by cosine similarity, (2) a search query script that extracts the features for a randomly selected image and returns the most similar images from the vector database.
 
 The construction of the proposed image retrieval pipeline can be divided into three stages:
 
