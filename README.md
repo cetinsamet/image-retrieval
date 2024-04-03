@@ -58,5 +58,8 @@ Some examples of the resulting search queries are as follows;
 ---
 ![img.png](results/results_vit_l_32/query_002.jpg)
 ---
-![img.png](results/results_vit_l_32/query_003.jpg)
+![img.png](results/results_vit_l_32/query_005.jpg)
+---
+![img.png](results/results_vit_l_32/query_006.jpg)
+
 
