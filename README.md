@@ -4,7 +4,7 @@ This repository presents an image retrieval pipeline that consists of a vector d
 
 The construction of the proposed image retrieval pipeline can be divided into three stages:
 
-1 - Place your images (a collection of images that you want to create an image retrieval pipeline on) under the data folders as ```data/images```.   
+1 - Place your images (a collection of images that you want to create an image retrieval pipeline on) under the data folders as ```data/images```. In this project, [Landscape Pictures Dataset](https://www.kaggle.com/datasets/arnaud58/landscape-pictures) is used but feel free to use your of own image collection.
 2 - Extract the features of all images using a pre-trained ResNet model and save all features into a vector database.  
 3 - For a given query image, perform a similarity search by first extracting the features of the query image and then performing a search over the vector database.  
 
