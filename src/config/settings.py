@@ -1,4 +1,4 @@
-WORK_DIR = "/Users/cetinsamet/Desktop/image-retrieval"
+WORK_DIR = ""
 DATA_DIR = f"{WORK_DIR}/data"
 IMAGES_DIR = f"{DATA_DIR}/images"
 RESULTS_DIR = f"{WORK_DIR}/results"
