@@ -31,7 +31,7 @@ WORK_DIR = "PATH-TO-YOUR-OWN-WORKING-DIRECTORY"
 
 4. Create a ```data``` folder as follows
 ```
-mkdir ../data
+$ mkdir ../data
 ```
 
 5. Download data from [here](https://www.kaggle.com/datasets/arnaud58/landscape-pictures) (Landscape Pictures Dataset) and place all image files under ```data/images``` folder.
