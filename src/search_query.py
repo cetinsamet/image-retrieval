@@ -5,11 +5,11 @@
 # Usage:
 #
 #   To use this script, you can run the following commands: (You MUST define a feat_extractor since indexings are different for each model)
-#       python3 query_search.py --feat_extractor resnet50
-#       python3 query_search.py --feat_extractor resnet101
-#       python3 query_search.py --feat_extractor resnet50 --n 5
-#       python3 query_search.py --feat_extractor resnet50 --k 20
-#       python3 query_search.py --feat_extractor resnet50 --n 10 --k 12
+#       python3 search_query.py --feat_extractor resnet50
+#       python3 search_query.py --feat_extractor resnet101
+#       python3 search_query.py --feat_extractor resnet50 --n 5
+#       python3 search_query.py --feat_extractor resnet50 --k 20
+#       python3 search_query.py --feat_extractor resnet50 --n 10 --k 12
 #
 import matplotlib.pyplot as plt
 import numpy as np
